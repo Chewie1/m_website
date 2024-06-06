@@ -34,7 +34,7 @@ body{
 .info{
     text-align: left;
     padding: 30px;
-    width: 430px;
+    width: 900px;
     padding-left: 150px;
     padding-top: 60px;
 }
@@ -81,4 +81,18 @@ p{
     width: 30px;
 }
 
+.text{
+    margin-top:50px;
+}
 
+.backbtn{
+    position:relative;
+    margin-top:100px;
+}
+
+#download{
+    position: absolute;
+    width: 600px;
+    top: 500px;
+    right: 1px; 
+}
