@@ -80,6 +80,12 @@ h4 {
     margin-top: 20px;
 }
 
+#vd{
+    color:black;
+    margin-left:14%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
 @media (max-width: 768px) {
     .container {
         padding: 10px;
